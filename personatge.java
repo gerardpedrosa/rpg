@@ -51,6 +51,10 @@ public class personatge {
         return salut;
     }
 
+    public double getMana() {
+        return mana;
+    }   
+
     public boolean estaViu() {
         return salut > 0;
     }
