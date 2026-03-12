@@ -1,5 +1,5 @@
 public class arma {
-   
+
     private String nom;
     private TipusA tipus;
     private boolean magia;
@@ -31,6 +31,4 @@ public class arma {
     public enum TipusA {
         espasa, destral, basto, arc
     }
-
-    
 }
